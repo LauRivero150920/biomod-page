@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'BebasNeue-Regular';
+    src: url('/font/BebasNeue-Regular.ttf');
+}
+
+#nav-bimod, #footer{
+    background-color: #87C3E8;
+}
+
+h1{
+    font-family: BebasNeue-Regular;
+    text-align: center;
+}
+
+footer{
+    background-color: #87C3E8;
+    font-family: BebasNeue-Regular;
+    font-size: 24px;
+}
+
+nav{
+    height: 100px;
+    vertical-align: middle;
+    padding-top: 20px;
+    padding-right: 20px;
+    background-color: #87C3E8;
+    font-size: medium;
+}
+
+.nav-element{
+    font-size: 40px;
+    font-family: BebasNeue-Regular;
+    margin-right: 30px;
+}
+
+#biomod-logo{
+    width: 13%;
+    margin-left: 20px;
+}
+
+#cover{
+    width: 100%;
+}
+
+#logo-top {
+    position: absolute;
+    top: 25%;
+    left: 7.5%;
+    width: 85%;
+}
+
+i{
+    margin-right: 20px;
+    margin-bottom: 35px;
+    color: white;
+}
+
+h5{
+    margin-bottom: 25px;
+    font-size: 40px;
+}
+
+.nav-wrapper{
+    width: 80%;
+    margin-left: 5%;
+}
+
+#who-text{
+    width: 60%;
+    margin-left: 20%;
+    text-align: justify;
+    font-size: 20px;
+}
